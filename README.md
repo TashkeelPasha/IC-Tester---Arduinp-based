@@ -8,6 +8,7 @@ This project is an **Arduino-based IC tester** designed to test basic logic gate
 
 The IC tester allows you to test four types of logic gates (**OR, XOR, AND, NAND**) on ICs by connecting the IC to the Arduino and pressing the corresponding button. The tester uses pre-defined truth tables for each gate to verify the IC's functionality and indicates the result through a **green (pass)** or **red (fail)** LED.
 
+
 ## Features
 
 - Tests **OR, XOR, AND,** and **NAND** gates.
@@ -24,6 +25,8 @@ The IC tester allows you to test four types of logic gates (**OR, XOR, AND, NAND
 - Breadboard and connecting wires
 
 ## Wiring Diagram
+![WhatsApp Image 2024-06-02 at 18 49 20](https://github.com/TashkeelPasha/IC-Tester---Arduinp-based/assets/152206485/aa5ace97-106b-4187-8f66-f464c0b45bca)
+
 
 ### Button Connections
 
